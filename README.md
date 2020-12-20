@@ -13,7 +13,7 @@ Summarizes stock market data over the years 2014-2016, given certain structured 
 * Greatest Total Volume	BAC	21,277,761,900
 
 
-### 2016			          Ticker	Value
+### 2016			          
 * Greatest % Increase	SD	11,675.00%
 * Greatest % Decrease	DYN.W	(91.49)%
 * Greatest Total Volume	BAC	27,428,529,600
